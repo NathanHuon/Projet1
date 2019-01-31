@@ -7,3 +7,4 @@ for i in range(0,10):
         z=i+n
         print("z vaut:"+str(z))
     print("-----------------")
+print("END")
